@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+    background-image: linear-gradient(45deg, rgb(253, 187, 63),rgb(220, 61, 167));
+    width: 100%;
+    height: 30px;
+}
+.div2{
+    width: 70%;
+    height: 30px;
+    margin-left: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div3 ul{
+    display: flex;
+}
+.div3 ul li{
+    list-style-type: none;
+    padding: 0px 10px 0px 5px;
+    color: white;
+}
+.div4{
+    background-color: white;
+}
+.div5{
+    margin-left: 245px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 65%;
+}
+.div7 ul{
+    display: flex;
+}
+.div7 ul li{
+    list-style-type: none;
+    padding-right: 10px;
+}
+.div8{
+    background-image: url(https://cdn.stocksnap.io/img-thumbs/280h/business-office_IHBPBLYUFE.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div9{
+    width: 65%;
+    margin-left: 240px;
+}
+.div9 .p{
+    padding-top: 100px;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px 3px white;
+    font-family: monospace;
+}
+.div9 .p1{
+    color: white;
+}
+.div9 h2{
+    color: white;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.button1{
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: transparent;
+    background-image: linear-gradient(110deg,orange,rgb(221, 86, 187));
+    color: white;
+    padding: 10px;
+}
+.button2{
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+}
+.div12{
+    width: 100%;
+    background-image: linear-gradient(45deg,orange,rgb(214, 66, 155));
+    height: 200px;
+    padding-top: 50px;
+}
+.div13{
+    width: 30%;
+}
+.div14{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.div14 .icon{
+    font-size: 30px;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 50%;
+    color: white;
+}
+.div15{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 190px 0px 250px;
+}
+.div17{
+    display: flex;
+    gap: 10px;
+    margin: 0px 190px 0px 250px;
+}
+.div18 p{
+    text-align: justify;
+}
+.div20{
+    display: flex;
+}
+.div20 img{
+    width: 300px;
+    height: 200px;
+    margin-right: 50px;
+}
+.div22{
+    margin-left: 240px;
+}
+.div22 h2{
+   padding-top: 100px;
+}
+.div23{
+    background-color: whitesmoke;
+}
+.div21 h4{
+    padding-bottom: 100px;
+}
